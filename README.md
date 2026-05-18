@@ -1,5 +1,5 @@
-# Project Name
-Food Ordering System
+# Food Ordering System
+
 ## Introduction
 This project is a C++ console application that describes how working a simple restaurant ordering system.
 
