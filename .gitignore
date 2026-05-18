@@ -1,0 +1,23 @@
+# Visual Studio local cache
+.vs/
+*.user
+*.suo
+
+# Build output folders
+x64/
+Debug/
+Release/
+bin/
+obj/
+
+# Compiled/generated files
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.lastbuildstate
+
+# Temporary/generated folder
+Food Ord.9134eb95/
