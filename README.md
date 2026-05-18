@@ -1,11 +1,11 @@
 # Food Ordering System
 
 ## Introduction
-This project is a C++ console application that describes how working a simple restaurant ordering system.
+- This project is a C++ console application that describes how working a simple restaurant ordering system.
 
-The system allows customers to view menus, choose dishes, place orders, and check their order information. It also allows staff to manage menus, view customer orders, and update the order status.
+- The system allows customers to view menus, choose dishes, place orders, and check their order information. It also allows staff to manage menus, view customer orders, and update the order status.
 
-**Goal**: Practice OOP in C++, file handling, class design follow **`SOLID principle`**, inheritance, basic order management logic.
+- **Goal**: Practice OOP in C++, file handling, class design follow **`SOLID principle`**, inheritance, basic order management logic.
 ## Features
 ### 1. Customer Features
 
