@@ -157,12 +157,16 @@ Sup toc tien
 Each dish is stored with the following information:
 
 ```text
+MENU NAME
 Dish ID
 Dish name
 Price
 Category number
 Discount percentage
 Limited discount quantity
+...
+Dish ID n
+...
 ```
 
 Category numbers:
