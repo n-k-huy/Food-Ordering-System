@@ -39,7 +39,7 @@
 - OOP
 - File handling with `fstream`
 - SOLID Principle
-
+---
 ## Architechture/Flow
 ### 1. System Flow
 
