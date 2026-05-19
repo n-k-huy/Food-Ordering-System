@@ -132,11 +132,7 @@ Food-Ordering-System-main/
 │
 ├── Menu.txt                  # Sample menu data
 │
-├── Food Ordering System.png  # Project diagram/image
-│
-├── .gitignore
-│
-└── README.md
+└── Food Ordering System.png  # Project diagram/image
 ```
 ### 1. Menu data format
 The project stores menu data in `Menu.txt`.
